@@ -28,7 +28,7 @@ if __name__ == "__main__":
     for item in [ 'spam1' , 'spam2' , 'spam3' , 'spam4' ]:
         print item
 
-    counter=5
+    counter=6
     while counter > 0:
         print counter
         counter -= 1
