@@ -18,7 +18,7 @@ if __name__ == "__main__":
     print "Hello Steph"
     print result
 
-    if result > 1:
+    if result > 2:
         print result
     elif result == 0:
         print 0
