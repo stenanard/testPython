@@ -7,7 +7,7 @@ import sys # Load the system library
 def main_function(parameter):
     print "here is where we do the stuff"
     print parameter
-    parameter = parameter
+    parameter = parameteri + 2
 
     return parameter
 
