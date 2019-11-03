@@ -7,14 +7,14 @@ import sys # Load the system library
 def main_function(parameter):
     print "here is where we do the stuff"
     print parameter
-    parameter = parameteri + 2
+    parameter = parameter + 2
 
     return parameter
 
 
 if __name__ == "__main__":
     param = sys.argv[1]
-    result = main_function(param)	
+    result = main_function(param)
     print "Hello Steph"
     print result
 
@@ -35,4 +35,4 @@ if __name__ == "__main__":
 
     for i in range(3):
         print i
-    
+
